@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<social>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dev.danvega.social.Application",
+            "projectName": "social",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
